@@ -118,12 +118,12 @@ void loop() {
     if(Aostt<=100.0){
       D5st=1;
       D6st=0;
-      D5st=1;
+      D7st=1;
     };
     if(Aostt>100.0){
       D5st=0;
       D6st=1;
-      D5st=1;
+      D7st=1;
     };
     
     
